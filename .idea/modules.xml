@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cd0384-java-application-deployment-projectstarter-master/starter/catpoint-parent/cat-application/cat-application.iml" filepath="$PROJECT_DIR$/cd0384-java-application-deployment-projectstarter-master/starter/catpoint-parent/cat-application/cat-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cd0384-java-application-deployment-projectstarter-master/starter/catpoint-parent/cat-service/cat-service.iml" filepath="$PROJECT_DIR$/cd0384-java-application-deployment-projectstarter-master/starter/catpoint-parent/cat-service/cat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cd0384-java-application-deployment-projectstarter-master/starter/catpoint-parent/catpoint-parent.iml" filepath="$PROJECT_DIR$/cd0384-java-application-deployment-projectstarter-master/starter/catpoint-parent/catpoint-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cd0384-java-application-deployment-projectstarter-master.iml" filepath="$PROJECT_DIR$/.idea/cd0384-java-application-deployment-projectstarter-master.iml" />
+    </modules>
+  </component>
+</project>
